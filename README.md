@@ -4,3 +4,5 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 ## Проекты
 
 * [Проект 0. Угадай число](https://github.com/feelingcxld/SkillFactory/tree/main/Project_0)
+* 
+* [Проект 2. Очистка данных](https://github.com/feelingcxld/SkillFactory/tree/main/DataCleaningProject)

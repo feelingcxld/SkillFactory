@@ -58,7 +58,7 @@ git clone https://github.com/SkillfactoryDS/DataCleaningProject
 ```
 
 ## Использование
-Вся информация о работе представлена в jupyter-ноутбуке data_cleaning_example.ipynb.
+Вся информация о работе представлена в jupyter-ноутбуке data_cleaning.ipynb.
 
 ## Авторы
 

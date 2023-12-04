@@ -54,7 +54,7 @@
 ## Установка проекта
 
 ```
-git clone https://github.com/feelingcxld/SkillFactory/main/DataCleaningProject/
+git clone https://github.com/feelingcxld/SkillFactory/
 ```
 
 ## Использование

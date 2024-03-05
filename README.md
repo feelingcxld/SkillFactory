@@ -7,3 +7,4 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 * 
 * [Проект 2. Очистка данных](https://github.com/feelingcxld/SkillFactory/tree/main/DataCleaningProject)
 * [Проект 3. Анализ резюме из HeadHunter](https://github.com/feelingcxld/SkillFactory/tree/main/HeadHunterResumeAnalysis)
+* [Проект 4. Анализ резюме из HeadHunter используя PostgreSQL](https://github.com/feelingcxld/SkillFactory/tree/main/HeadHunterResumeAnalysis_v2)
